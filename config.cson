@@ -1,0 +1,15 @@
+"*":
+  editor:
+    invisibles: {}
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+    disabledPackages: [
+      "sass-watch"
+    ]
+  "exception-reporting":
+    userId: "e1e8b71d-da9c-c968-36d4-be813083deb3"
+  welcome:
+    showOnStartup: false
